@@ -1,0 +1,60 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.back {
+    background-image:url(../videogame/images/Videogames.png);
+    width:auto;
+    height:170px;
+    background-size:contain;
+}
+
+.title {
+    font-size:80px;
+    color:#040505;
+    font-weight: lighter;
+}
+
+.subtitle {
+    font-size:32px;
+    font-weight: lighter;
+    color:#040505;
+}
+
+.header-row {
+    text-align: center;
+    font-weight: 600;
+    color:black;
+}
+
+.body-table {
+    color: black;
+    text-align: center;
+}
+
+.operation-button {
+    width:100%;
+}
+
+/*
+.search {
+    border-color: #040464;
+    background-color: black;
+    color: white;
+}
+
+.search-field {
+    background-color: #040464;
+    border: #040464;
+    color: white;
+}
+
+.select {
+    background-color: white;
+}
+*/
+
+.row-space {
+   padding:5px;
+}
